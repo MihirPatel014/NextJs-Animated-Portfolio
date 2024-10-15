@@ -5,7 +5,6 @@ import {motion} from 'framer-motion';
 import project from "../assests/project.jpg";
 import project1 from "../assests/proj1.jpg";
 import project2 from "../assests/proj2.jpg";
-import pc from "../assests/pc.png";
 
 function Portfolio() {
 

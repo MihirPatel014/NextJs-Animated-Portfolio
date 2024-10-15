@@ -1,7 +1,6 @@
 "use client";
 import React, { useState, useEffect } from "react";
 import Image from "next/image";
-import aboutImg from "../assests/profilepic.png";
 import book from "../assests/book.png";
 import pc from "../assests/pc.png";
 import card from "../assests/card.png";
